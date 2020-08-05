@@ -1,7 +1,5 @@
 ### Hi there, I'm Hasanoes 👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/_staticvoid?label=Follow)](https://twitter.com/Hasanoes)
-
 
 ## A little bit about me
 - 🌱 I’m currently learning everything
