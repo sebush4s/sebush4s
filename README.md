@@ -27,13 +27,14 @@
 ![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git)
 ![Java](https://img.shields.io/badge/-java-E34A86?style=for-the-badge&logo=java)
 
+![Github Stats](https://github-readme-stats.vercel.app/api?username=PolandBOX&count_private=true&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PolandBOX&hide=php&layout=compact&&langs_count=10)
 <br />
 <br />
 
 
 ---
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PolandBOX&hide=php&layout=compact&&langs_count=10)
-<img align="left" alt="Hasanoes Github Stats" src="https://github-readme-stats.vercel.app/api?username=PolandBOX&show_icons=true&hide_border=true" />
+
 
 [twitter]: https://twitter.com/hasanoes
 [youtube]: https://youtube.com/polandbox
