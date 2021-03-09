@@ -25,6 +25,8 @@
 ![DigitalOcean](https://img.shields.io/badge/-Digital%20Ocean-darkblue?style=for-the-badge&logo=digitalocean)
 ![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git)
 ![Java](https://img.shields.io/badge/-java-E34A86?style=for-the-badge&logo=java)
+![Vue](https://img.shields.io/badge/-Vue-black?style=for-the-badge&logo=javascript)
+![C#](https://img.shields.io/badge/-Vue-black?style=for-the-badge&logo=javascript)
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=PolandBOX&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PolandBOX&hide=php&layout=compact&&langs_count=10)
