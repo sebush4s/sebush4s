@@ -1,15 +1,14 @@
-### Hi there, I'm Hasanoes 👋
+### Cześć! 👋
 
 
-## A little bit about me
-- 🌱 I’m currently learning everything
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ I like drawing and going to the shooting range
+## Trochę o mnie
+- 🌱 Uczę się każdego języka / frameworka jaki wpadnie mi w ręce
+- 🥅 W 2021 chcę zacząć tworzyć różne serwisy saas
+- ⚡ Uwielbiam chodzenie na strzelnicę
 
 <br />
 
-## ⚡ Technologies
+## ⚡ Technologie których uyżywam
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
