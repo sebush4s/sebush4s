@@ -1,41 +1,26 @@
-### Cześć! 👋
+<details>
+<summary><u><b>:zap: My favorite stack</b></u></summary><br>
+    <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
+    <img alt="Spring" src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"/>
+    <img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
+    <img alt="Angular" src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white"/>
+    <img alt="SASS" src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white"/>
+    <img alt="Dart" src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white"/>
+    <img alt="Flutter" src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" />
+    <img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
+</a>
+</details>
 
+<details>
+<summary><u><b> 🎧 What I'm listening to right now </u></b></summary>
+  
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ag4njzejamkgxd0nxc5br6s8n&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=ag4njzejamkgxd0nxc5br6s8n&redirect=true)
+  
+</details>
 
-## Trochę o mnie
-- 🌱 Uczę się każdego języka / frameworka jaki wpadnie mi w ręce
-- 🥅 W 2021 chcę zacząć tworzyć różne serwisy saas
-- ⚡ Uwielbiam chodzenie na strzelnicę
-
-<br />
-
-## ⚡ Technologie których uyżywam
-
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=for-the-badge&logo=Node.js)
-![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react)
-![Gatsby](https://img.shields.io/badge/-Gatsby-663399?style=for-the-badge&logo=gatsby)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![npm](https://img.shields.io/badge/-NPM-222222?style=for-the-badge&logo=npm)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=for-the-badge&logo=mongodb)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql)
-![Docker](https://img.shields.io/badge/-Docker-black?style=for-the-badge&logo=docker)
-![DigitalOcean](https://img.shields.io/badge/-Digital%20Ocean-darkblue?style=for-the-badge&logo=digitalocean)
-![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git)
-![Java](https://img.shields.io/badge/-java-E34A86?style=for-the-badge&logo=java)
-![Vue](https://img.shields.io/badge/-Vue-black?style=for-the-badge&logo=javascript)
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=PolandBOX&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PolandBOX&hide=php&layout=compact&&langs_count=10)
-<br />
-<br />
-
-
----
-
-
-[twitter]: https://twitter.com/hasanoes
-[youtube]: https://youtube.com/polandbox
-[instagram]: https://instagram.com/sebus_997
+<details>
+<summary><u><b> 📊 My stats </u></b></summary>
+  
+![Metrics](https://metrics.lecoq.io/PolandBOX?template=classic&base.metadata=0&isocalendar=1&languages=1&introduction=1&lines=1&achievements=1&isocalendar.duration=half-year&languages.ignored=php&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&introduction.title=true&achievements.threshold=C&achievements.secrets=true&achievements.limit=0&config.timezone=Europe%2FWarsaw)
+  
+</details>
