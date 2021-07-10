@@ -14,7 +14,7 @@
 <details>
 <summary><u><b> 🎧 What I'm listening to right now </u></b></summary>
 
-<br>![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=yb68a75lxcdnluull7lm1mjhg&count=1)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=yb68a75lxcdnluull7lm1mjhg&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=yb68a75lxcdnluull7lm1mjhg&redirect=true)
   
 </details>
 
