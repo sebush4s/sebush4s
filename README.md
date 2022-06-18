@@ -14,7 +14,7 @@
 <details>
 <summary><u><b> 🎧 What I'm listening to right now </u></b></summary>
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=yb68a75lxcdnluull7lm1mjhg&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=yb68a75lxcdnluull7lm1mjhg&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=trbzp07bb9t6mcyp1nfqc7y1b&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=trbzp07bb9t6mcyp1nfqc7y1b&redirect=true)
   
 </details>
 
