@@ -22,16 +22,16 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 26 January 2023 - To: 30 January 2023
+From: 26 January 2023 - To: 31 January 2023
 
-Total Time: 7 hrs 30 mins
+Total Time: 8 hrs 12 mins
 
-Java             5 hrs 29 mins   >>>>>>>>>>>>>>>>>>-------   73.21 %
-XML              43 mins         >>-----------------------   09.72 %
-Properties       27 mins         >>-----------------------   06.21 %
-C#               27 mins         >>-----------------------   06.13 %
-XAML             14 mins         >------------------------   03.23 %
-GitIgnore file   3 mins          -------------------------   00.74 %
+Java             5 hrs 40 mins   >>>>>>>>>>>>>>>>>--------   69.06 %
+XML              54 mins         >>>----------------------   10.99 %
+Properties       27 mins         >------------------------   05.68 %
+C#               27 mins         >------------------------   05.60 %
+GitIgnore file   14 mins         >------------------------   03.00 %
+XAML             14 mins         >------------------------   02.95 %
 ```
 
 <!--END_SECTION:waka-->
