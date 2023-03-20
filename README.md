@@ -22,16 +22,16 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 26 January 2023 - To: 17 March 2023
+From: 26 January 2023 - To: 18 March 2023
 
-Total Time: 22 hrs 4 mins
+Total Time: 22 hrs 37 mins
 
-Java             7 hrs 18 mins   >>>>>>>>-----------------   33.08 %
-TypeScript       6 hrs 12 mins   >>>>>>>------------------   28.10 %
-JavaScript       2 hrs 43 mins   >>>----------------------   12.35 %
-Svelte           2 hrs 39 mins   >>>----------------------   12.08 %
-XML              54 mins         >------------------------   04.15 %
-Properties       27 mins         >------------------------   02.11 %
+Java             7 hrs 18 mins   >>>>>>>>-----------------   32.29 %
+TypeScript       6 hrs 12 mins   >>>>>>>------------------   27.43 %
+JavaScript       3 hrs 15 mins   >>>>---------------------   14.44 %
+Svelte           2 hrs 39 mins   >>>----------------------   11.79 %
+XML              54 mins         >------------------------   04.05 %
+Properties       27 mins         >------------------------   02.06 %
 ```
 
 <!--END_SECTION:waka-->
