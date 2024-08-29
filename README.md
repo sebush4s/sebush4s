@@ -22,15 +22,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 26 January 2023 - To: 26 August 2024
+From: 26 January 2023 - To: 27 August 2024
 
-Total Time: 37 hrs 52 mins
+Total Time: 39 hrs 14 mins
 
-C#               12 hrs 17 mins  >>>>>>>>-----------------   32.47 %
-Java             8 hrs 17 mins   >>>>>--------------------   21.90 %
-TypeScript       6 hrs 13 mins   >>>>---------------------   16.44 %
-JavaScript       3 hrs 15 mins   >>-----------------------   08.62 %
-Svelte           2 hrs 39 mins   >>-----------------------   07.04 %
+C#               12 hrs 17 mins  >>>>>>>>-----------------   31.34 %
+Java             8 hrs 17 mins   >>>>>--------------------   21.13 %
+TypeScript       6 hrs 52 mins   >>>>---------------------   17.50 %
+JavaScript       3 hrs 24 mins   >>-----------------------   08.67 %
+Svelte           2 hrs 39 mins   >>-----------------------   06.79 %
 ```
 
 <!--END_SECTION:waka-->
