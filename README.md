@@ -22,14 +22,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 26 January 2023 - To: 19 January 2025
+From: 26 January 2023 - To: 20 January 2025
 
-Total Time: 71 hrs 26 mins
+Total Time: 71 hrs 30 mins
 
-TypeScript            21 hrs 42 mins  >>>>>>>>-----------------   30.38 %
-C#                    12 hrs 17 mins  >>>>---------------------   17.22 %
-JavaScript            9 hrs 18 mins   >>>----------------------   13.03 %
-Java                  8 hrs 57 mins   >>>----------------------   12.54 %
+TypeScript            21 hrs 45 mins  >>>>>>>>-----------------   30.44 %
+C#                    12 hrs 17 mins  >>>>---------------------   17.20 %
+JavaScript            9 hrs 18 mins   >>>----------------------   13.02 %
+Java                  8 hrs 57 mins   >>>----------------------   12.53 %
 JSON                  4 hrs 9 mins    >------------------------   05.82 %
 ```
 
